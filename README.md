@@ -38,7 +38,7 @@ This project explores a retail dataset to analyze trends in sales and profit acr
 - 📦 Central Region had consistent profits; **South** showed improvement  
 - 🚚 Same Day delivery had low sales but unusually high profit margins
 
-> Full business insights are available in [`/reports/Retail_Sales_Self_Analysis.docx`](./reports/Retail_Sales_Self_Analysis.docx)
+> Full business insights are available in C:\Users\ajink\Downloads\Retail-Sales-Performance-Analysis
 
 ---
 
