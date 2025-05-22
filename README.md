@@ -1,16 +1,16 @@
-🛒 Retail Sales Performance Analysis
+Retail Sales Performance Analysis
 
 A data-driven project to uncover valuable insights from Superstore sales data using Python. This analysis focuses on identifying profitable categories, regional sales trends, and key performance metrics that can drive business growth.
 
 ---
 
-📌 Project Overview
+Project Overview
 
 This project explores a retail dataset to analyze trends in sales and profit across different segments, regions, and product categories. The goal is to enable data-backed decision-making for improving business strategies and identifying underperforming areas.
 
 ---
 
-🧰 Tools & Libraries Used
+Tools & Libraries Used
 
 - Python
 - Pandas – Data cleaning and manipulation
@@ -20,7 +20,7 @@ This project explores a retail dataset to analyze trends in sales and profit acr
 
 ---
 
-🎯 Project Goals
+Project Goals
 
 - Perform exploratory data analysis (EDA) on Superstore data  
 - Visualize performance across different categories and regions  
@@ -30,19 +30,19 @@ This project explores a retail dataset to analyze trends in sales and profit acr
 
 ---
 
-📊 Summary of Findings
+Summary of Findings
 
-- 📱 Phones were the highest profit-generating sub-category in 2023  
-- 🪑 Chairs showed high sales but low profit — a potential cost concern  
-- 📁 Binders displayed strong seasonal fluctuations, with Q4 underperformance  
-- 📦 Central Region had consistent profits; **South** showed improvement  
-- 🚚 Same Day delivery had low sales but unusually high profit margins
+- Phones were the highest profit-generating sub-category in 2023  
+- Chairs showed high sales but low profit — a potential cost concern  
+- Binders displayed strong seasonal fluctuations, with Q4 underperformance  
+- Central Region had consistent profits; **South** showed improvement  
+- Same Day delivery had low sales but unusually high profit margins
 
-> Full business insights are available in C:\Users\ajink\Downloads\Retail-Sales-Performance-Analysis
+> Full business insights are available in Retail_Sales_Self_Analysis.docx file uploaded.
 
 ---
 
-📁 Folder Structure
+Folder Structure
 
 Retail-Sales-Performance-Analysis/
 │
